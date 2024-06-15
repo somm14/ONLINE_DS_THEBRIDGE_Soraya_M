@@ -1,0 +1,10 @@
+PROBLEMAS A RESOLVER USANDO DATOS:
+
+- Supermercado más barato en general
+- Profesión más rentable a nivel económico y profesional
+- Entrenamiento físico más eficaz para ganancia de masa muscular.
+
+CONJUNTOS DE DATOS:
+- Precios de las grandes superficies.
+- Salarios profesiones
+- Datos de porcentaje de masa muscular en un determinado entremamiento
